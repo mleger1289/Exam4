@@ -12,4 +12,5 @@ DSP 539 Exam 4
 	
 	
 # These scripts work well individually within the jupyter server.
-
+	the files for jupyter server are in the folder script_jupyter
+		all of these when run individually return the correct data
